@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/cargos/</loc>
+         <loc>https://traffloat.github.io/guide/master/cargo/</loc>
          <lastmod>2021-07-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -31,12 +31,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/cargos/battery/</loc>
+         <loc>https://traffloat.github.io/guide/master/cargo/battery/</loc>
          <lastmod>2021-07-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/cargos/gas-bottle/</loc>
+         <loc>https://traffloat.github.io/guide/master/cargo/gas-bottle/</loc>
+         <lastmod>2021-07-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/cargo/liquid-bottle/</loc>
          <lastmod>2021-07-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
