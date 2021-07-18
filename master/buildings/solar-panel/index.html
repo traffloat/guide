@@ -276,8 +276,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../house/" class="md-nav__link">
-        House
+      <a href="../hut/" class="md-nav__link">
+        Hut
       </a>
     </li>
   
@@ -297,9 +297,52 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Solar panel
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         Solar panel
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mechanisms" class="md-nav__link">
+    Mechanisms
+  </a>
+  
+    <nav class="md-nav" aria-label="Mechanisms">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solar-power" class="md-nav__link">
+    Solar power
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -801,6 +844,34 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mechanisms" class="md-nav__link">
+    Mechanisms
+  </a>
+  
+    <nav class="md-nav" aria-label="Mechanisms">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solar-power" class="md-nav__link">
+    Solar power
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -811,7 +882,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/traffloat/traffloat/edit/master/docs/buildings/solar-panel.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/traffloat/traffloat/edit/master/docgen/src/buildings/solar-panel.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -821,6 +892,25 @@
 <blockquote>
 <p>Basic power production</p>
 </blockquote>
+<h2 id="mechanisms">Mechanisms</h2>
+<h3 id="solar-power"><a href="../reactions/solar-power">Solar power</a></h3>
+<p>Generates electricity from sunlight.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Player can manually restrict rate</th>
+<th align="center">When inputs underflow</th>
+<th align="center">When outputs overflow</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">No</td>
+<td align="center">Reduce output rate</td>
+<td align="center">Reduce input rate</td>
+</tr>
+</tbody>
+</table>
                 
               
               
@@ -840,7 +930,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../house/" class="md-footer__link md-footer__link--prev" aria-label="Previous: House" rel="prev">
+        <a href="../hut/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Hut" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -849,7 +939,7 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              House
+              Hut
             </div>
           </div>
         </a>
