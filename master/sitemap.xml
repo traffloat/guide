@@ -71,7 +71,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/building/driving-school/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/building/hut/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/building/prison/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -201,27 +211,57 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/reaction/driving-lesson/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/reaction/imprisonment/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/reaction/solar-power/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/skill/construction/</loc>
+         <loc>https://traffloat.github.io/guide/master/skill/age/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/skill/driving/</loc>
+         <loc>https://traffloat.github.io/guide/master/skill/construction-skill/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/skill/mechanic/</loc>
+         <loc>https://traffloat.github.io/guide/master/skill/driving-skill/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/skill/teaching/</loc>
+         <loc>https://traffloat.github.io/guide/master/skill/health/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/mechanic-skill/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/military-skill/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/morality/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/teaching-skill/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
