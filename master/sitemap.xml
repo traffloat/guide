@@ -205,4 +205,24 @@
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/construction/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/driving/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/mechanic/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/teaching/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
