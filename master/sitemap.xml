@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/housing/</loc>
+         <lastmod>2021-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/liquid/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>

@@ -51,13 +51,17 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
   
     
     <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -100,6 +104,28 @@
         </div>
       </div>
     </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 10a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2m10-3a5 5 0 0 1 5 5 5 5 0 0 1-5 5H7a5 5 0 0 1-5-5 5 5 0 0 1 5-5h10M7 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3h10a3 3 0 0 0 3-3 3 3 0 0 0-3-3H7z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+            </label>
+          
+        
+      </form>
     
     
     
@@ -390,8 +416,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#housing" class="md-nav__link">
-    Housing
+  <a href="#birth" class="md-nav__link">
+    Birth
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#growth" class="md-nav__link">
+    Growth
   </a>
   
 </li>
@@ -403,17 +436,22 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    Skill
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
       
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../housing/" class="md-nav__link">
+        Housing
+      </a>
     </li>
   
 
@@ -438,14 +476,14 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_3" type="checkbox" id="__nav_5_3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_4" type="checkbox" id="__nav_5_4" >
       
-      <label class="md-nav__link" for="__nav_5_3">
+      <label class="md-nav__link" for="__nav_5_4">
         Skill
         <span class="md-nav__icon md-icon"></span>
       </label>
       <nav class="md-nav" aria-label="Skill" data-md-level="2">
-        <label class="md-nav__title" for="__nav_5_3">
+        <label class="md-nav__title" for="__nav_5_4">
           <span class="md-nav__icon md-icon"></span>
           Skill
         </label>
@@ -972,8 +1010,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#housing" class="md-nav__link">
-    Housing
+  <a href="#birth" class="md-nav__link">
+    Birth
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#growth" class="md-nav__link">
+    Growth
   </a>
   
 </li>
@@ -981,13 +1026,6 @@
         <li class="md-nav__item">
   <a href="#happiness" class="md-nav__link">
     Happiness
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    Skill
   </a>
   
 </li>
@@ -1011,11 +1049,29 @@
                 
                 <h1 id="population">Population</h1>
 <p>The space colony is operated by inhabitants.</p>
-<h2 id="housing">Housing</h2>
+<h2 id="birth">Birth</h2>
+<p>Inhabitants are produced by asexual reproduction or sexual reproduction</p>
+<p>Asexual reproduction is performed manually in the <a href="../buildings/core">core</a>.
+Given sufficient amount of <a href="../cargo/dna">DNA</a> is available,
+players can initiate asexual reproduction using the core building menu.
+The created inhabitants will be assigned any random available housing in the colony.</p>
+<p>Sexual reproduction is performed spontaneously in houses.
+Two inhabitants living in the same colony will
+randomly give birth to children based on their <a href="../happiness">happiness</a>.
+Higher happiness results in higher probability of giving birth.
+The child will be assigned to the same housing as its parents.</p>
+<h2 id="growth">Growth</h2>
+<p><em>Main article: <a href="../skill">Skill</a></em></p>
+<p>Inhabitants are born with low skill points in each area.
+Skill points increase slowly as age increases,
+but can be boosted by attending <a href="../buildings#education">schools</a>.
+Inhabitants operate vehicles or buildings more effectively
+when they have higher skill points in the relevant areas.</p>
 <h2 id="happiness">Happiness</h2>
-<p>Main article: <a href="../happiness">Happiness</a></p>
-<h2 id="skill">Skill</h2>
-<p>Main article: <a href="../skill">Skill</a></p>
+<p><em>Main article: <a href="../happiness">Happiness</a></em></p>
+<p>Each inhabitant has their own happiness value.
+Higher happiness results in higher effectiveness when operating buildings or vehicles.
+When happiness drops below zero, they become outlaws who cause destruction to the colony.</p>
                 
               
               
@@ -1051,13 +1107,13 @@
       
       
         
-        <a href="../happiness/" class="md-footer__link md-footer__link--next" aria-label="Next: Happiness" rel="next">
+        <a href="../housing/" class="md-footer__link md-footer__link--next" aria-label="Next: Housing" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Happiness
+              Housing
             </div>
           </div>
           <div class="md-footer__button md-icon">
