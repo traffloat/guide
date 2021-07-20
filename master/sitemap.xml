@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/buildings/</loc>
+         <loc>https://traffloat.github.io/guide/master/building/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -56,7 +56,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/reactions/</loc>
+         <loc>https://traffloat.github.io/guide/master/reaction/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -66,22 +66,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/buildings/core/</loc>
+         <loc>https://traffloat.github.io/guide/master/building/core/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/buildings/hut/</loc>
+         <loc>https://traffloat.github.io/guide/master/building/hut/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/buildings/solar-panel/</loc>
+         <loc>https://traffloat.github.io/guide/master/building/solar-panel/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/buildings/terminal/</loc>
+         <loc>https://traffloat.github.io/guide/master/building/terminal/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -201,7 +201,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/reactions/solar-power/</loc>
+         <loc>https://traffloat.github.io/guide/master/reaction/solar-power/</loc>
          <lastmod>2021-07-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
