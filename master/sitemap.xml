@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/crime/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/electricity/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
@@ -181,6 +186,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/crime/arson/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/crime/pickpocket/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/crime/robbery/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/gas/carbon-dioxide/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
@@ -242,6 +262,11 @@
     </url>
     <url>
          <loc>https://traffloat.github.io/guide/master/skill/health/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/infamy/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
