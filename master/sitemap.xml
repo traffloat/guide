@@ -36,11 +36,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://traffloat.github.io/guide/master/happiness/</loc>
-         <lastmod>2021-07-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://traffloat.github.io/guide/master/housing/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
@@ -241,6 +236,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/skill/happiness/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/skill/health/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
@@ -257,6 +257,11 @@
     </url>
     <url>
          <loc>https://traffloat.github.io/guide/master/skill/morality/</loc>
+         <lastmod>2021-07-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/satisfaction/</loc>
          <lastmod>2021-07-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
