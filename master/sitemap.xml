@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://traffloat.github.io/guide/master/building/stadium/</loc>
+         <lastmod>2021-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://traffloat.github.io/guide/master/building/terminal/</loc>
          <lastmod>2021-07-27</lastmod>
          <changefreq>daily</changefreq>
@@ -242,6 +247,11 @@
     </url>
     <url>
          <loc>https://traffloat.github.io/guide/master/skill/age/</loc>
+         <lastmod>2021-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://traffloat.github.io/guide/master/skill/athletic-skill/</loc>
          <lastmod>2021-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
